@@ -7,5 +7,4 @@ Just put the JSON in the folder and restart Foocus.
 \Fooocus_####\Fooocus\sdxl_styles
 
 Showcase
-
-(https://github.com/K3nt3L/MK-Styles/blob/main/Preview_Images/preview_styles_mosaic.jpg)
+![image](https://github.com/K3nt3L/MK-Styles/blob/main/Preview_Images/preview_styles_mosaic.jpg)
