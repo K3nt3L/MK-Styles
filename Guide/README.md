@@ -11,7 +11,7 @@ What is Chromolithography ? It's is a printing technique that uses multiple colo
 
 ### Example
 
-Prompt : A crocodile in the water, river bank, jungle in the background + style
+### Prompt : A crocodile in the water, river bank, jungle in the background + style
 
 ![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/Chromolithography_example.png)
 
@@ -23,6 +23,12 @@ Prompt : Dufaycolor photograph {prompt}. Vintage color palette, distinctive colo
 Negative prompt : modern color reproduction, hyperrealistic tones, sharp and clear details, digital precision, contemporary aesthetic.
 
 Dufaycolor refers to an early color photography process developed by Louis Dufay in the early 20th century. It was an additive color process, relying on a screen of regularly spaced colored lines or dots to capture and reproduce color in photographs. 
+
+### Example
+
+### Prompt : Portrait of a kid on the beach, balloon, 1940
+
+![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/DufayColor_photography_example.png)
 
 ## MK Punk Collage
 
