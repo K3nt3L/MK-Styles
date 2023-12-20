@@ -36,6 +36,14 @@ prompt : punk collage style {prompt} . mixed media, papercut,textured paper, ove
 
 Negative prompt : conventional,blurry, noisy, low contrast
 
-Punk collage refers to a visual art form associated with the punk subculture, particularly in the late 1970s and early 1980s. It involves creating collages using a DIY (Do It Yourself) ethos and often incorporates elements of rebellion, anti-establishment sentiments, and a raw, anarchic aesthetic.
+Punk collage refers to a visual art form associated with the punk subculture, particularly in the late 1970s and early 1980s. It involves creating collages using a DIY (Do It Yourself) ethos and often incorporates elements of rebellion, anti-establishment sentiments, and a raw, anarchic aesthetic. They  include cut-and-paste techniques, combining images, text, and found materials to create a visually striking and often politically charged composition. 
+
+### Example
+
+### Prompt : Rodents playing live music negative : human, people
+
+
+
+
 
 
