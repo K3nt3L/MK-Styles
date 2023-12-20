@@ -42,6 +42,8 @@ Punk collage refers to a visual art form associated with the punk subculture, pa
 
 ### Prompt : Rodents playing live music negative : human, people
 
+![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/DufayColor_photography_example.png)
+
 
 
 
