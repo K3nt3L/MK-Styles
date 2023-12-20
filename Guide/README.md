@@ -9,6 +9,13 @@ Negative prompt : monochromatic, simple designs, limited color palette, imprecis
 
 What is Chromolithography ? It's is a printing technique that uses multiple colors and lithographic principles to create colorful and detailed prints. It involves applying separate ink layers using different printing plates, each representing a distinct color, to produce vibrant and finely detailed images.
 
+### Example
+
+Prompt : A crocodile in the water, river bank, jungle in the background + style
+
+![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/Chromolithography_example.png)
+
+
 ## MK Dufaycolor Photograph
 
 Prompt : Dufaycolor photograph {prompt}. Vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina.
