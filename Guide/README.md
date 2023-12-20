@@ -11,7 +11,7 @@ What is Chromolithography ? It's is a printing technique that uses multiple colo
 
 ### Example
 
-Prompt : A crocodile in the water, river bank, jungle in the background + style
+### Prompt : A crocodile in the water, river bank, jungle in the background + style
 
 ![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/Chromolithography_example.png)
 
@@ -24,12 +24,26 @@ Negative prompt : modern color reproduction, hyperrealistic tones, sharp and cle
 
 Dufaycolor refers to an early color photography process developed by Louis Dufay in the early 20th century. It was an additive color process, relying on a screen of regularly spaced colored lines or dots to capture and reproduce color in photographs. 
 
+### Example
+
+### Prompt : Portrait of a kid on the beach, balloon, 1940
+
+![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/DufayColor_photography_example.png)
+
 ## MK Punk Collage
 
 prompt : punk collage style {prompt} . mixed media, papercut,textured paper, overlapping, ripped posters, safety pins, chaotic layers, graffiti-style elements, anarchy symbols, vintage photos, cut-and-paste aesthetic, bold typography, distorted images, political messages, urban decay, distressed textures, newspaper clippings, spray paint, rebellious icons, DIY spirit, vivid colors, punk band logos, edgy and raw compositions.
 
 Negative prompt : conventional,blurry, noisy, low contrast
 
-Punk collage refers to a visual art form associated with the punk subculture, particularly in the late 1970s and early 1980s. It involves creating collages using a DIY (Do It Yourself) ethos and often incorporates elements of rebellion, anti-establishment sentiments, and a raw, anarchic aesthetic.
+Punk collage refers to a visual art form associated with the punk subculture, particularly in the late 1970s and early 1980s. It involves creating collages using a DIY (Do It Yourself) ethos and often incorporates elements of rebellion, anti-establishment sentiments, and a raw, anarchic aesthetic. They  include cut-and-paste techniques, combining images, text, and found materials to create a visually striking and often politically charged composition. 
+
+### Example
+
+### Prompt : Rodents playing live music negative : human, people
+
+
+
+
 
 
