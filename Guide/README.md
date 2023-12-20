@@ -40,7 +40,8 @@ Punk collage refers to a visual art form associated with the punk subculture, pa
 
 ### Example
 
-### Prompt : Rodents playing live music negative : human, people
+### Prompt : Rodents playing live music 
+### Negative prompt : human, people
 
 ![image](https://github.com/K3nt3L/MK-Styles/blob/main/Guide/PunkCollage_example.png)
 
