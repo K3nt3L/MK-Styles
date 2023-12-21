@@ -1,0 +1,59 @@
+name,prompt,negative_prompt
+ads-advertising,advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed,noisy, blurry, amateurish, sloppy, unattractive
+ads-automotive,automotive advertisement style {prompt} . sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed,noisy, blurry, unattractive, sloppy, unprofessional
+ads-corporate,corporate branding style {prompt} . professional, clean, modern, sleek, minimalist, business-oriented, highly detailed,noisy, blurry, grungy, sloppy, cluttered, disorganized
+ads-fashion editorial,fashion editorial style {prompt} . high fashion, trendy, stylish, editorial, magazine style, professional, highly detailed,outdated, blurry, noisy, unattractive, sloppy
+ads-food photography,food photography style {prompt} . appetizing, professional, culinary, high-resolution, commercial, highly detailed,unappetizing, sloppy, unprofessional, noisy, blurry
+ads-gourmet food photography,gourmet food photo of {prompt} . soft natural lighting, macro details, vibrant colors, fresh ingredients, glistening textures, bokeh background, styled plating, wooden tabletop, garnished, tantalizing, editorial quality,cartoon, anime, sketch, grayscale, dull, overexposed, cluttered, messy plate, deformed
+ads-luxury,luxury product style {prompt} . elegant, sophisticated, high-end, luxurious, professional, highly detailed,cheap, noisy, blurry, unattractive, amateurish
+ads-real estate,real estate photography style {prompt} . professional, inviting, well-lit, high-resolution, property-focused, commercial, highly detailed,dark, blurry, unappealing, noisy, unprofessional
+ads-retail,retail packaging style {prompt} . vibrant, enticing, commercial, product-focused, eye-catching, professional, highly detailed,noisy, blurry, amateurish, sloppy, unattractive
+artstyle-abstract,abstract style {prompt} . non-representational, colors and shapes, expression of feelings, imaginative, highly detailed,realistic, photographic, figurative, concrete
+artstyle-abstract expressionism,abstract expressionist painting {prompt} . energetic brushwork, bold colors, abstract forms, expressive, emotional,realistic, photorealistic, low contrast, plain, simple, monochrome
+artstyle-art deco,art deco style {prompt} . geometric shapes, bold colors, luxurious, elegant, decorative, symmetrical, ornate, detailed,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist
+artstyle-art nouveau,art nouveau style {prompt} . elegant, decorative, curvilinear forms, nature-inspired, ornate, detailed,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, modernist, minimalist
+artstyle-constructivist,constructivist style {prompt} . geometric shapes, bold colors, dynamic composition, propaganda art style,realistic, photorealistic, low contrast, plain, simple, abstract expressionism
+artstyle-cubist,cubist artwork {prompt} . geometric shapes, abstract, innovative, revolutionary,anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy
+artstyle-expressionist,expressionist {prompt} . raw, emotional, dynamic, distortion for emotional effect, vibrant, use of unusual colors, detailed,realism, symmetry, quiet, calm, photo
+artstyle-graffiti,graffiti style {prompt} . street art, vibrant, urban, detailed, tag, mural,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic
+artstyle-hyperrealism,hyperrealistic art {prompt} . extremely high-resolution details, photographic, realism pushed to extreme, fine texture, incredibly lifelike,simplified, abstract, unrealistic, impressionistic, low resolution
+artstyle-impressionist,impressionist painting {prompt} . loose brushwork, vibrant color, light and shadow play, captures feeling over form,anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy
+artstyle-pointillism,pointillism style {prompt} . composed entirely of small, distinct dots of color, vibrant, highly detailed,line drawing, smooth shading, large color fields, simplistic
+artstyle-pop art,pop Art style {prompt} . bright colors, bold outlines, popular culture themes, ironic or kitsch,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, minimalist
+artstyle-psychedelic,psychedelic style {prompt} . vibrant colors, swirling patterns, abstract forms, surreal, trippy,monochrome, black and white, low contrast, realistic, photorealistic, plain, simple
+artstyle-renaissance,renaissance style {prompt} . realistic, perspective, light and shadow, religious or mythological themes, highly detailed,ugly, deformed, noisy, blurry, low contrast, modernist, minimalist, abstract
+artstyle-steampunk,steampunk style {prompt} . antique, mechanical, brass and copper tones, gears, intricate, detailed,deformed, glitch, noisy, low contrast, anime, photorealistic
+artstyle-surrealist,surrealist art {prompt} . dreamlike, mysterious, provocative, symbolic, intricate, detailed,anime, photorealistic, realistic, deformed, glitch, noisy, low contrast
+artstyle-typography,typographic art {prompt} . stylized, intricate, detailed, artistic, text-based,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic
+artstyle-watercolor,watercolor painting {prompt} . vibrant, beautiful, painterly, detailed, textural, artistic,anime, photorealistic, 35mm film, deformed, glitch, low contrast, noisy
+futuristic-biomechanical,biomechanical style {prompt} . blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate,natural, rustic, primitive, organic, simplistic
+futuristic-biomechanical cyberpunk,biomechanical cyberpunk {prompt} . cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed,natural, colorful, deformed, sketch, low contrast, watercolor
+futuristic-cybernetic,cybernetic style {prompt} . futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes,ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval
+futuristic-cybernetic robot,cybernetic robot {prompt} . android, AI, machine, metal, wires, tech, futuristic, highly detailed,organic, natural, human, sketch, watercolor, low contrast
+futuristic-cyberpunk cityscape,cyberpunk cityscape {prompt} . neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed,natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-cyberpunk street,cyberpunk street {prompt} . futuristic, urban, gritty, neon lights, dark, grungy, detailed, highly detailed,natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-digital art,digital art style {prompt} . digital, futuristic, technological, abstract, vibrant, detailed, highly detailed,natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-dystopian,dystopian future {prompt} . bleak, dark, post-apocalyptic, futuristic, detailed, highly detailed,utopian, bright, colorful, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-galactic,galactic space scene {prompt} . space, stars, planets, cosmic, futuristic, detailed, highly detailed,earthly, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-mecha,mecha {prompt} . giant robots, futuristic, mechanical, detailed, highly detailed,organic, natural, human, sketch, watercolor, low contrast, realism, photorealistic
+futuristic-robot,robot {prompt} . humanoid, futuristic, mechanical, detailed, highly detailed,organic, natural, human, sketch, watercolor, low contrast, realism, photorealistic
+futuristic-space,space scene {prompt} . stars, planets, cosmic, futuristic, detailed, highly detailed,earthly, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-space exploration,space exploration {prompt} . astronauts, space travel, futuristic, detailed, highly detailed,earthly, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-space station,space station {prompt} . futuristic, space, technology, detailed, highly detailed,earthly, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-steam train,steam train {prompt} . locomotive, transportation, steam, tracks, detailed, highly detailed,organic, natural, human, sketch, watercolor, low contrast, realism, photorealistic
+futuristic-utopian,utopian future {prompt} . bright, colorful, idyllic, futuristic, detailed, highly detailed,bleak, dark, post-apocalyptic, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-vehicle,concept vehicle {prompt} . futuristic, transportation, sleek, detailed, highly detailed,organic, natural, human, sketch, watercolor, low contrast, realism, photorealistic
+futuristic-virtual reality,virtual reality {prompt} . VR, technology, futuristic, detailed, highly detailed,natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-war,war in the future {prompt} . futuristic, battle, conflict, detailed, highly detailed,peaceful, calm, idyllic, natural, rural, deformed, noisy, blurry, low contrast, realism, photorealistic
+futuristic-weapon,concept weapon {prompt} . futuristic, firearm, melee, detailed, highly detailed,organic, natural, human, sketch, watercolor, low contrast, realism, photorealistic
+gameart-2d game,2D game art style {prompt} . pixel art, side-scrolling, retro, cute, colorful, detailed, highly detailed,3D, realistic, low resolution, low poly, blurry, noisy
+gameart-3d game,3D game art style {prompt} . realistic, immersive, detailed, highly detailed,low poly, pixel art, side-scrolling, retro, cute, colorful, low resolution, blurry, noisy
+gameart-cartoon,animated cartoon style {prompt} . colorful, exaggerated features, lively, dynamic, detailed, highly detailed,realistic, dark, gritty, violent, monotone
+gameart-fantasy,fantasy game art style {prompt} . magical, mythical creatures, detailed, highly detailed,realistic, dark, gritty, violent, monotone
+gameart-horror,horror game art style {prompt} . dark, eerie, creepy, detailed, highly detailed,cute, colorful, exaggerated features, lively, dynamic
+gameart-sci-fi,sci-fi game art style {prompt} . futuristic, technology, detailed, highly detailed,futuristic, space, detailed, highly detailed, realistic, immersive
+gameart-retro,retro game art style {prompt} . pixel art, side-scrolling, 8-bit, cute, colorful, detailed, highly detailed,3D, realistic, low resolution, low poly, blurry, noisy
+gameart-sandbox,sandbox game art style {prompt} . open world, exploration, detailed, highly detailed,linear, straightforward, realistic, gritty, dark
+gameart-steampunk,steampunk game art style {prompt} . antique, mechanical, detailed, highly detailed,futuristic, space, detailed, highly detailed, realistic, immersive
+gameart-war,war game art style {prompt} . military, battlefield, detailed, highly detailed,cute, colorful, exaggerated features, lively, dynamic
+gameart-zombie,zombie game art style {prompt} . undead, apocalypse, horror, detailed, highly detailed,cute, colorful, exaggerated features, lively, dynamic
