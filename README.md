@@ -6,7 +6,7 @@ Have fun.
 Just put the JSON in the folder and restart Foocus. 
 \Fooocus_####\Fooocus\sdxl_styles
 
-Last update (the Foocus styles have some issues with negative, I try to correct them). Replace the initial file (sdxl_styles_marc_k3nt3l.json) by the new one.
+Last update (the styles -included in Foocus) have some issues with negative prompt, I try to correct them). Replace the initial file (sdxl_styles_marc_k3nt3l.json) by the new one.
 
 <h6>Showcase, some samples from my styles</h6>
 
