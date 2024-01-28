@@ -1,0 +1,48 @@
+[
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "MK Van Gogh",
+        "prompt": "Oil painting by Van Gogh {prompt} . Expressive, impasto, swirling brushwork, vibrant, brush strokes, Brushstroke-heavy, Textured, Impasto, Colorful, Dynamic, Bold, Distinctive, Vibrant, Whirling, Expressive, Dramatic, Swirling, Layered, Intense, Contrastive, Atmospheric, Luminous, Textural, Evocative, SpiraledVan Gogh style",
+        "negative_prompt": "realistic, photorealistic, calm, straight lines, signature, frame, text, watermark"
+    },
+    {
+        "name": "MK Singer Sargent",
+        "prompt": "Oil painting by John Singer Sargent {prompt}. Elegant, refined, masterful technique,realistic portrayal, subtle play of light, captivating expression, rich details, harmonious colors, skillful composition, brush strokes, chiaroscuro.",
+        "negative_prompt": "realistic, photorealistic, abstract, overly stylized, excessive contrasts, distorted,bright colors,disorder."
+    },
+    {
+        "name": "MK Pollock",
+        "prompt": "Oil painting by Jackson Pollock {prompt}. Abstract expressionism, drip painting, chaotic composition, energetic, spontaneous, unconventional technique, dynamic, bold, distinctive, vibrant, intense, expressive, energetic, layered, non-representational, gestural.",
+        "negative_prompt": "(realistic:1.5), (photorealistic:1.5), representational, calm, ordered composition, precise lines, detailed forms, subdued colors, quiet, static, traditional, figurative."
+    },
+    {
+        "name": "MK Basquiat",
+        "prompt": "Artwork by Jean-Michel Basquiat {prompt}. Neo-expressionism, street art influence, graffiti-inspired, raw, energetic, bold colors, dynamic composition, chaotic, layered, textural, expressive, spontaneous, distinctive, symbolic,energetic brushstrokes.",
+        "negative_prompt": "(realistic:1.5), (photorealistic:1.5), calm, precise lines, conventional composition, subdued"
+     },
+     {
+        "name": "MK Andy Warhol",
+        "prompt": "Artwork in the style of Andy Warhol {prompt}. Pop art, vibrant colors, bold compositions, repetition of iconic imagery, celebrity culture, commercial aesthetics, mass production influence, stylized simplicity, cultural commentary, graphical elements, distinctive portraits.",
+        "negative_prompt": "subdued colors, realistic, lack of repetition, minimalistic."
+    },
+    {
+        "name": "MKA monet-style",
+        "prompt": "impressionist painting by Monetof {prompt} . ethereal, brushstroke, pastel colors, light reflections, water lilies, atmospheric, plein air, outdoor scene, blur, Monet style",
+        "negative_prompt": "photorealistic, realism, sharp edges, harsh lines, geometric shapes, vibrant colors, sharp, detailed"
+    },
+    {
+        "name": "MKA degas-style",
+        "prompt": "impressionist artwork by Degas of {prompt} . pastel tones, soft lighting, candid moments, atmospheric, intimate, pastel colors, brush strokes,  Degas style",
+        "negative_prompt": "photorealistic, realism, sharp edges, harsh lines, geometric shapes, vibrant colors, detailed"
+    },
+	{
+        "name": "MKA hopper-style",
+        "prompt": "realistic painting by Edward Hopper capturing {prompt} . urban scenes, solitary figures, subdued lighting, minimalist, limited color palette, long shadows, atmospheric, introspective, cinematic, Edward Hopper style, earth tones, deep blues, warm grays , subdued yellows",
+        "negative_prompt": "impressionist, vibrant colors, dreamy, blurry, soft edges, fantastical, abstract"
+    }
+
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "MK Chromolithography",
+        "prompt": "Chromolithograph {prompt}. Vibrant colors, intricate details, rich color saturation, meticulous registration, multi-layered printing, decorative elements, historical charm, artistic reproductions, commercial posters, nostalgic, ornate compositions.",
+        "negative_prompt": "monochromatic, simple designs, limited color palette, imprecise registration, minimalistic, modern aesthetic, digital appearance."
+    },
+    {
+        "name": "MK vintage-airline-poster",
+        "prompt": "vintage airline poster {prompt} . classic aviation fonts, pastel colors, elegant aircraft illustrations, scenic destinations, distressed textures, retro travel allure",
+        "negative_prompt": "modern fonts, bold colors, hyper-realistic, sleek design"
+    },
+    {
+        "name": "MK vintage-travel-poster",
+        "prompt": "vintage travel poster {prompt} . retro fonts, muted colors, scenic illustrations, iconic landmarks, distressed textures, nostalgic vibes",
+        "negative_prompt": "modern fonts, vibrant colors, hyper-realistic, sleek design"
+    },
+    {
+        "name": "MK Herbarium",
+        "prompt": "Herbarium drawing{prompt}. Botanical accuracy, old botanical book illustration, detailed illustrations, pressed plants, delicate and precise linework, scientific documentation, meticulous presentation, educational purpose, organic compositions, timeless aesthetic, naturalistic beauty.",
+        "negative_prompt": "abstract representation, vibrant colors, artistic interpretation, chaotic compositions, fantastical elements, digital appearance."
+    },
+    {
+        "name": "MK fayum-portrait",
+        "prompt": "Fayum portrait {prompt} . encaustic painting, realistic facial features, warm earth tones, serene expressions, ancient Egyptian influences",
+        "negative_prompt": "abstract, vibrant colors, exaggerated features, modern"
+    },
+    {
+        "name": "MK illuminated-manuscript",
+        "prompt": "Illuminated manuscript {prompt} . intricate calligraphy, rich colors, detailed illustrations, gold leaf accents, ornate borders, religious, historical, medieval",
+        "negative_prompt": "modern typography, minimalist design, monochromatic, abstract themes"
+    }
+]

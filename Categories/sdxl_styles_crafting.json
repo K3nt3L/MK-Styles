@@ -1,0 +1,28 @@
+[
+    
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },{
+        "name": "MK mosaic",
+        "prompt": "mosaic style {prompt} . fragmented, assembled, colorful, highly detailed",
+        "negative_prompt": "whole, unbroken, monochrome"
+    },
+    {
+        "name": "MK Cross-Stitching",
+        "prompt": "Cross-stitching {prompt}. Intricate patterns, embroidery thread, sewing, fine details, precise stitches, textile artistry, symmetrical designs, varied color palette, traditional and contemporary motifs, handmade and crafted,canvas, nostalgic charm.",
+        "negative_prompt": "paper, paint, ink, photography."
+    },
+    {
+        "name": "MK Embroidery",
+        "prompt": "Embroidery {prompt}. Intricate stitching, embroidery thread, fine details, varied thread textures, textile artistry, embellished surfaces, diverse color palette, traditional and contemporary motifs, handmade and crafted, tactile and ornate.",
+        "negative_prompt": "minimalist, monochromatic."
+    },
+    {
+        "name": "Pebble Art",
+        "prompt": "a sculpture made of peebles, {prompt}. Pebble art style,natural materials, textured surfaces, balanced compositions, organic forms, harmonious arrangements, tactile and 3D effects, beach-inspired aesthetic, creative storytelling, artisanal craftsmanship.",
+        "negative_prompt": "non-natural materials, lack of textured surfaces, imbalanced compositions, absence of organic forms, non-tactile appearance."
+    },
+    
+]

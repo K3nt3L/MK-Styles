@@ -1,0 +1,57 @@
+[
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+{
+    "name": "futuristic-biomechanical",
+    "prompt": "biomechanical style {prompt} . blend of organic and mechanical elements, futuristic, cybernetic, detailed, intricate",
+    "negative_prompt": "natural, rustic, primitive, organic, simplistic"
+},
+{
+    "name": "futuristic-biomechanical cyberpunk",
+    "prompt": "biomechanical cyberpunk {prompt} . cybernetics, human-machine fusion, dystopian, organic meets artificial, dark, intricate, highly detailed",
+    "negative_prompt": "natural, colorful, deformed, sketch, low contrast, watercolor"
+},
+{
+    "name": "futuristic-cybernetic",
+    "prompt": "cybernetic style {prompt} . futuristic, technological, cybernetic enhancements, robotics, artificial intelligence themes",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+},
+{
+    "name": "futuristic-cybernetic robot",
+    "prompt": "cybernetic robot {prompt} . android, AI, machine, metal, wires, tech, futuristic, highly detailed",
+    "negative_prompt": "organic, natural, human, sketch, watercolor, low contrast"
+},
+{
+    "name": "futuristic-cyberpunk cityscape",
+    "prompt": "cyberpunk cityscape {prompt} . neon lights, dark alleys, skyscrapers, futuristic, vibrant colors, high contrast, highly detailed",
+    "negative_prompt": "natural, rural, deformed, low contrast, black and white, sketch, watercolor"
+},
+{
+    "name": "futuristic-futuristic",
+    "prompt": "futuristic style {prompt} . sleek, modern, ultramodern, high tech, detailed",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, vintage, antique"
+},
+{
+    "name": "futuristic-retro cyberpunk",
+    "prompt": "retro cyberpunk {prompt} . 80's inspired, synthwave, neon, vibrant, detailed, retro futurism",
+    "negative_prompt": "modern, desaturated, black and white, realism, low contrast"
+},
+{
+    "name": "futuristic-retro futurism",
+    "prompt": "retro-futuristic {prompt} . vintage sci-fi, 50s and 60s style, atomic age, vibrant, highly detailed",
+    "negative_prompt": "contemporary, realistic, rustic, primitive"
+},
+{
+    "name": "futuristic-sci-fi",
+    "prompt": "sci-fi style {prompt} . futuristic, technological, alien worlds, space themes, advanced civilizations",
+    "negative_prompt": "ugly, deformed, noisy, blurry, low contrast, realism, photorealistic, historical, medieval"
+},
+{
+    "name": "futuristic-vaporwave",
+    "prompt": "vaporwave style {prompt} . retro aesthetic, cyberpunk, vibrant, neon colors, vintage 80s and 90s style, highly detailed",
+    "negative_prompt": "monochrome, muted colors, realism, rustic, minimalist, dark"
+}
+]

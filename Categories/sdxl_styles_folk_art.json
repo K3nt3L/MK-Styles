@@ -1,0 +1,43 @@
+[
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "MK Gond-Painting",
+        "prompt": "Gond painting {prompt}. Intricate patterns, vibrant colors, detailed motifs, nature-inspired themes, tribal folklore, fine lines, intricate detailing, storytelling compositions, mystical and folkloric, cultural richness.",
+        "negative_prompt": "monochromatic, abstract shapes, minimalistic."
+    },
+    {
+        "name": "MK fayum-portrait",
+        "prompt": "Fayum portrait {prompt} . encaustic painting, realistic facial features, warm earth tones, serene expressions, ancient Egyptian influences",
+        "negative_prompt": "abstract, vibrant colors, exaggerated features, modern"
+    },
+    {
+        "name": "MK kalighat-painting",
+        "prompt": "Kalighat painting {prompt} . bold lines, vibrant colors, narrative storytelling, cultural motifs, flat compositions, expressive characters",
+        "negative_prompt": "subdued colors, intricate details, realistic portrayal, modern aesthetics"
+    },
+    {
+        "name": "MK madhubani-painting",
+        "prompt": "Madhubani painting {prompt} . intricate patterns, vibrant colors, nature-inspired motifs, cultural storytelling, symmetry, folk art aesthetics",
+        "negative_prompt": "abstract, muted colors, minimalistic design, modern aesthetics"
+    },
+    {
+        "name": "MK pichwai-painting",
+        "prompt": "Pichwai painting {prompt} . intricate detailing, vibrant colors, religious themes, nature motifs, devotional storytelling, gold leaf accents",
+        "negative_prompt": "minimalist, subdued colors, abstract design"
+     },
+    {
+        "name": "MK patachitra-painting",
+        "prompt": "Patachitra painting {prompt} . bold outlines, vibrant colors, intricate detailing, mythological themes, storytelling, traditional craftsmanship",
+        "negative_prompt": "subdued colors, minimalistic, abstract, modern aesthetics"
+    },
+    {
+        "name": "MK Palekh-painting",
+        "prompt": "Palekh art {prompt}. Miniature paintings, intricate details, vivid colors, folkloric themes, lacquer finish, storytelling compositions, symbolic elements, Russian folklore influence, cultural and historical significance.",
+        "negative_prompt": "large-scale paintings."
+    }
+
+]

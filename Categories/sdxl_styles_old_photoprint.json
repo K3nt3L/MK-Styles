@@ -1,0 +1,57 @@
+[
+    {
+        "name": "base",
+        "prompt": "{prompt}",
+        "negative_prompt": ""
+    },
+    {
+        "name": "MK Dufaycolor Photograph",
+        "prompt": "Dufaycolor photograph {prompt}. Vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina.",
+        "negative_prompt": "modern color reproduction, hyperrealistic tones, sharp and clear details, digital precision, contemporary aesthetic."
+      },
+    {
+        "name": "MK Aquatint Print",
+        "prompt": "Aquatint print {prompt}. Soft tonal gradations, atmospheric effects, velvety textures, rich contrasts, fine details, etching process, delicate lines, nuanced shading, expressive and moody atmosphere, artistic depth.",
+        "negative_prompt": "sharp contrasts, bold lines, minimalistic."
+    },
+    {
+        "name": "MK Anthotype Print",
+        "prompt": "Anthotype print {prompt}. Monochrome dye, soft and muted colors, organic textures, ephemeral and delicate appearance, low details, watercolor canvas, low contrast, overexposed, silhouette, textured paper.",
+        "negative_prompt": "vibrant synthetic dyes, bold and saturated colors."
+    },
+    {
+        "name": "MK Bromoil Print",
+        "prompt": "Bromoil print {prompt}. Painterly effects, sepia tones, textured surfaces, rich contrasts, expressive brushwork, tonal variations, vintage aesthetic, atmospheric mood, handmade quality, artistic experimentation, darkroom craftsmanship, vignetting.",
+        "negative_prompt": "smooth surfaces, minimal brushwork, contemporary digital appearance."
+     },
+     {
+        "name": "MK Calotype Print",
+        "prompt": "Calotype print {prompt}. Soft focus, subtle tonal range, paper negative process, fine details, vintage aesthetic, artistic experimentation, atmospheric mood, early photographic charm, handmade quality, vignetting.",
+        "negative_prompt": "sharp focus, bold contrasts, modern aesthetic, digital photography."
+    },
+    {
+        "name": "MK Cyanotype Print",
+        "prompt": "Cyanotype print {prompt}. Prussian blue tones, distinctive coloration, high contrast, blueprint aesthetics, atmospheric mood, sun-exposed paper, silhouette effects, delicate details, historical charm, handmade and experimental quality.",
+        "negative_prompt": "vibrant colors, low contrast, modern and polished appearance."
+    },
+    {
+        "name": "MK pictorialism",
+        "prompt": "Pictorialism illustration{prompt} . soft focus, atmospheric effects, artistic interpretation, tonality, muted colors, evocative storytelling",
+        "negative_prompt": "sharp focus, high contrast, realistic depiction, vivid colors"
+     },
+     {
+        "name": "MK Dufaycolor Photograph",
+        "prompt": "Dufaycolor photograph {prompt}. Vintage color palette, distinctive color rendering, soft and dreamy atmosphere, historical charm, unique color process, grainy texture, evocative mood, nostalgic aesthetic, hand-tinted appearance, artistic patina.",
+        "negative_prompt": "modern color reproduction, hyperrealistic tones, sharp and clear details, digital precision, contemporary aesthetic."
+    },
+    {
+        "name": "MK Albumen Print",
+        "prompt": "Albumen print {prompt}. Sepia tones, fine details, subtle tonal gradations, delicate highlights, vintage aesthetic, soft and muted atmosphere, historical charm, rich textures, meticulous craftsmanship, classic photographic technique, vignetting.",
+        "negative_prompt": "vibrant colors, high contrast, modern, digital appearance, sharp details, contemporary style."
+    },
+    {
+        "name": "MK Cross Processing Print",
+        "prompt": "Cross processing print {prompt}. Experimental color shifts, unconventional tonalities, vibrant and surreal hues, heightened contrasts, unpredictable results, artistic unpredictability, retro and vintage feel, dynamic color interplay, abstract and dreamlike.",
+        "negative_prompt": "predictable color tones, traditional processing, realistic color representation, subdued contrasts, standard photographic aesthetics."
+    }
+]

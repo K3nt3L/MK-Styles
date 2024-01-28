@@ -1,0 +1,28 @@
+[
+   {
+      "name": "base",
+      "prompt": "{prompt}",
+      "negative_prompt": ""
+  },
+    {
+        "name": "MK chicano-art",
+        "prompt": "Chicano art {prompt} . bold colors, cultural symbolism, muralism, lowrider aesthetics, barrio life, political messages, social activism, Mexico",
+        "negative_prompt": "monochromatic, minimalist, mainstream aesthetics"
+      },
+    {
+        "name": "MK adnate-style",
+        "prompt": "Painting by Adnate {prompt} . realistic portraits, street art, large-scale murals, subdued color palette, social narratives",
+        "negative_prompt": "abstract, vibrant colors, small-scale art"
+     },
+     {
+        "name": "MK ron-english-style",
+        "prompt": "Painting by Ron English {prompt} . pop-surrealism, cultural subversion, iconic mash-ups, vibrant and bold colors, satirical commentary",
+        "negative_prompt": "traditional, monochromatic"
+     },
+     {
+        "name": "MK shepard-fairey-style",
+        "prompt": "Painting by Shepard Fairey {prompt} . street art, political activism, iconic stencils, bold typography, high contrast, red, black, and white color palette",
+        "negative_prompt": "traditional, muted colors"
+     }
+
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "base",
+    "prompt": "{prompt}",
+    "negative_prompt": ""
+},
+    {
+        "name": "MK Mokume-gane",
+        "prompt": "Mokume-gane {prompt}. Wood-grain patterns, mixed metal layers, intricate and organic designs, traditional Japanese metalwork, harmonious color combinations, artisanal craftsmanship, unique and layered textures, cultural and historical significance.",
+        "negative_prompt": "uniform metal surfaces."
+      },
+       
+      {
+        "name": "MK Suminagashi",
+        "prompt": "Suminagashi {prompt}. Floating ink patterns, marbled effects, delicate and ethereal designs, water-based ink, fluid and unpredictable compositions, meditative process, monochromatic or subtle color palette, Japanese artistic tradition.",
+        "negative_prompt": "vibrant and bold color palette."
+      },
+    
+      {
+        "name": "MK Shibori",
+        "prompt": "Shibori {prompt}. Textured fabric, intricate patterns, resist-dyeing technique, indigo or vibrant colors, organic and flowing designs, Japanese textile art, cultural tradition, tactile and visual interest.",
+        "negative_prompt": "monochromatic."
+      },
+      
+      {
+        "name": "MK Ukiyo-e",
+        "prompt": "Ukiyo-e {prompt}. Woodblock prints, vibrant colors, intricate details, depictions of landscapes, kabuki actors, beautiful women, cultural scenes, traditional Japanese art, artistic craftsmanship, historical significance.",
+        "negative_prompt": "absence of woodblock prints, muted colors, lack of intricate details, non-traditional Japanese themes, absence of cultural scenes."
+      },
+      {
+        "name": "MK Gyotaku",
+        "prompt": "Gyotaku {prompt}. Fish impressions, realistic details, ink rubbings, textured surfaces, traditional Japanese art form, nature-inspired compositions, artistic representation of marine life, black and white contrasts, cultural significance.",
+        "negative_prompt": "photography."
+      }        
+]

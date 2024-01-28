@@ -1,0 +1,81 @@
+[
+ 
+  {
+    "name": "MK Coloring Book",
+    "prompt": "centered black and white high contrast line drawing, coloring book style,{prompt} . monochrome, blank white background",
+    "negative_prompt": "greyscale, gradients,shadows,shadow, colored, Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Gray, Beige, Turquoise, Lavender, Cyan, Magenta, Olive, Indigo, black background"
+  },
+  {
+    "name": "MK Halftone print",
+    "prompt": "Halftone print of {prompt}. Dot matrix pattern, grayscale tones, vintage aesthetic, newspaper print vibe, stylized dots, visual texture, black and white contrasts, retro appearance, artistic pointillism,pop culture, (Roy Lichtenstein style:1.5).",
+    "negative_prompt": "smooth gradients, continuous tones, vibrant colors."
+  },
+ 
+  {
+    "name": "MK Color Sketchnote",
+    "prompt": "Color sketchnote {prompt}. Hand-drawn elements, vibrant colors, visual hierarchy, playful illustrations, varied typography, graphic icons, organic and dynamic layout, personalized touches, creative expression, engaging storytelling.",
+    "negative_prompt": "monochromatic, geometric layout."
+  },
+  
+  {
+    "name": "MK Alcohol Ink Art",
+    "prompt": "Alcohol ink art {prompt}. Fluid and vibrant colors, unpredictable patterns, organic textures, translucent layers, abstract compositions, ethereal and dreamy effects, free-flowing movement, expressive brushstrokes, contemporary aesthetic, wet textured paper.",
+    "negative_prompt": "monochromatic, controlled patterns."
+  },
+  {
+    "name": "MK One Line Art",
+    "prompt": "One line art {prompt}. Continuous and unbroken black line, minimalistic, simplicity, economical use of space, flowing and dynamic, symbolic representations, contemporary aesthetic, evocative and abstract, white background.",
+    "negative_prompt": "disjointed lines, complexity, complex detailing."
+  },
+  {
+    "name": "MK Blacklight Paint",
+    "prompt": "Blacklight paint {prompt}. Fluorescent pigments, vibrant and surreal colors, ethereal glow, otherworldly effects, dynamic and psychedelic compositions, neon aesthetics, transformative in ultraviolet light, contemporary and experimental.",
+    "negative_prompt": "muted colors, traditional and realistic compositions."
+  },
+
+  {
+    "name": "MK Encaustic Paint",
+    "prompt": "Encaustic paint {prompt}. Textured surfaces, translucent layers, luminous quality, wax medium, rich color saturation, fluid and organic shapes, contemporary and historical influences, mixed media elements, atmospheric depth.",
+    "negative_prompt": "flat surfaces, opaque layers, lack of wax medium, muted color palette, absence of textured surfaces, non-mixed media."
+  },
+  
+  {
+    "name": "MK Luminogram",
+    "prompt": "Luminogram {prompt}. Photogram technique, ethereal and abstract effects, light and shadow interplay, luminous quality, experimental process, direct light exposure, unique and unpredictable results, artistic experimentation.",
+    "negative_prompt": ""
+  },
+  {
+    "name": "MK Lite Brite Art",
+    "prompt": "Lite Brite art {prompt}. Luminous and colorful designs, pixelated compositions, retro aesthetic, glowing effects, creative patterns, interactive and playful, nostalgic charm, vibrant and dynamic arrangements.",
+    "negative_prompt": "monochromatic."
+  },
+  
+  {
+    "name": "MK bauhaus-style",
+    "prompt": "Bauhaus-inspired {prompt} . minimalism, geometric precision, primary colors, sans-serif typography, asymmetry, functional design",
+    "negative_prompt": "ornate, intricate, excessive detail, complex patterns, serif typography"
+  },
+  {
+    "name": "MK afrofuturism",
+    "prompt": "Afrofuturism illustration {prompt} . vibrant colors, futuristic elements, cultural symbolism, cosmic imagery, dynamic patterns, empowering narratives",
+    "negative_prompt": "monochromatic"
+  },
+  {
+    "name": "MK atompunk",
+    "prompt": "Atompunk illustation, {prompt} . retro-futuristic, atomic age aesthetics, sleek lines, metallic textures, futuristic technology, optimism, energy",
+    "negative_prompt": "organic, natural textures, rustic, dystopian"
+  },
+  {
+    "name": "MK constructivism",
+    "prompt": "Constructivism {prompt} . geometric abstraction, bold colors, industrial aesthetics, dynamic compositions, utilitarian design, revolutionary spirit",
+    "negative_prompt": "organic shapes, muted colors, ornate elements, traditional"
+  },
+
+  {
+    "name": "MK de-stijl",
+    "prompt": "De Stijl Art {prompt} . neoplasticism, primary colors, geometric abstraction, horizontal and vertical lines, simplicity, harmony, utopian ideals",
+    "negative_prompt": "complex patterns, muted colors, ornate elements, asymmetry"
+  }
+  
+
+]
