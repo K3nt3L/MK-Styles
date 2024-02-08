@@ -1,5 +1,5 @@
 name,prompt,negative_prompt
-"Twri-ads-poster,"advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
+"Twri-ads-poster","advertising poster style {prompt} . Professional, modern, product-focused, commercial, eye-catching, highly detailed","noisy, blurry, amateurish, sloppy, unattractive"
 "Twri-ads-automotive","automotive advertisement style {prompt} . sleek, dynamic, professional, commercial, vehicle-focused, high-resolution, highly detailed","noisy, blurry, unattractive, sloppy, unprofessional"
 "Twri-ads-corporate","corporate branding style {prompt} . professional, clean, modern, sleek, minimalist, business-oriented, highly detailed","noisy, blurry, grungy, sloppy, cluttered, disorganized"
 "Twri-ads-fashion editorial","fashion editorial style {prompt} . high fashion, trendy, stylish, editorial, magazine style, professional, highly detailed","outdated, blurry, noisy, unattractive, sloppy"
