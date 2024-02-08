@@ -32,9 +32,7 @@ name,prompt,negative_prompt
 "Instaphoto Cyberpunk","Photography by Tim Walker, {prompt} in a cyberpunk outfit. Futuristic, dystopian, metallic, neon","vintage, retro, classic, boho"
 "Instaphoto Rave","Photography by Rankin, {prompt} in rave wear. Bright colors, neon, sequins, fur","business casual, preppy, conservative, minimalist"
 "Instaphoto Hippy","Photography by Elliott Landy, {prompt} in hippy style. '70s influence, tie-dye, bell-bottoms, fringe","preppy, conservative, formal, modern"
-"Instaphoto Skater","Photography by Hugh Holland, {prompt} rocking skater style. Casual, sneakers, baggy, sporty, laid-back","
-
-formal, glamorous, high fashion, preppy"
+"Instaphoto Skater","Photography by Hugh Holland, {prompt} rocking skater style. Casual, sneakers, baggy, sporty, laid-back","formal, glamorous, high fashion, preppy"
 "Instaphoto Pin-Up","Photography by Bunny Yeager, {prompt} in a pin-up style. Retro, '50s influence, feminine, curves","gothic, grunge, sporty, tomboy"
 "Instaphoto Nautical","Photography by Slim Aarons, {prompt} in a nautical outfit. Sailor-inspired, stripes, navy, white, red","gothic, punk, grunge, boho"
 "Instaphoto Futuristic","Photography by Syd Mead, {prompt} in futuristic fashion. Metallic, geometric, avant-garde, high-tech","vintage, classic, traditional, retro"
@@ -72,11 +70,8 @@ formal, glamorous, high fashion, preppy"
 "Instaphoto Fashion","Fashion shot by Steven Meisel of {prompt}. Trendy outfit, styled, runway-ready, chic","plain, unstyled, out of style, ordinary"
 "Instaphoto Aerial","Aerial shot by Yann Arthus-Bertrand of {prompt}. Birds-eye view, grand, adventurous, stunning","ground level, confined, cautious, underwhelming"
 "Instaphoto Music","Music-related shot by Jim Marshall of {prompt}. Playing an instrument, singing, energetic, passionate","quiet, uninterested, uninvolved, lackluster"
-"Instaph
-
-oto Food","Food-related shot by Gordon Parks of {prompt}. Delicious, appetizing, mouth-watering, fresh","unappetizing, bland, uninviting, stale"
+"Instaphoto Food","Food-related shot by Gordon Parks of {prompt}. Delicious, appetizing, mouth-watering, fresh","unappetizing, bland, uninviting, stale"
 "Instaphoto Travel","Travel shot by Steve McCurry of {prompt}. Exotic location, cultural, adventurous, awe-inspiring","mundane, boring, familiar, uninspiring"
 "Instaphoto Wedding","Wedding shot by Annie Leibovitz of {prompt}. Bride, groom, romantic, joyous","divorce, breakup, unhappy, grim"
 "Instaphoto Landscape","Landscape shot by Ansel Adams of {prompt}. Vast, majestic, natural beauty, serene","crowded, urban, artificial, chaotic"
 "Instaphoto Portrait","Portrait by Richard Avedon of {prompt}. Character, emotion, personality, depth","object, landscape, building, animal"
-```
