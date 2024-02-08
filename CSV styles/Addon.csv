@@ -1,0 +1,3 @@
+﻿name,prompt,negative_prompt
+Skin Enhancer,"detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering",
+Skin Enhancer (clean),"detailed skin texture, (blush:0.2), (goosebumps:0.3), subsurface scattering",

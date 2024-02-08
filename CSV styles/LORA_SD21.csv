@@ -1,0 +1,5 @@
+﻿name,prompt,negative_prompt
+Sargent,"An oil painting by John Singer Sargent of (subject),<lora:JohnSingerSargent:1>,",
+Andreev,"""Alex Andreev style,(subject), Alex Andreev,<lora:AlexAndreev:1>",
+Balaskas,"(SUBJECT) by Christopher Balaskas,  <lora:ChristopherBalaskas:1>",
+Daniel Arsham,"(SUBJECT) by Daniel Arsham, <lora:DanielArsham:1>",
