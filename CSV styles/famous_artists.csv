@@ -1,6 +1,3 @@
-Vous avez raison, ajoutons les guillemets autour des données du premier champ. Voici le fichier CSV mis à jour :
-
-```csv
 "name","prompt","negative_prompt"
 "Van Gogh Style","Oil painting in Van Gogh style inspired by {prompt}. Expressive, impasto, swirling brushwork, vibrant.","Realistic, photorealistic, calm, straight lines"
 "Warhol Style","Pop art in Warhol style inspired by {prompt}. Bold colors, mass production, repetitive.","Subdued colors, traditional, unique, serious"
@@ -35,9 +32,7 @@ Vous avez raison, ajoutons les guillemets autour des données du premier champ. 
 "Thomas Kinkade Style","Romantic idealized painting by Thomas Kinkade. {prompt}. Warm light, detailed.","Abstract, harsh, cool light, minimalist"
 "Joan Miró Style","Surrealist abstract art by Joan Miró. {prompt}. Biomorphic forms, primary colors.","Realistic, figurative, complex, muted colors"
 "Gerhard Richter Style","Abstract textured art by Gerhard Richter. {prompt}. Layered, scraped.","Realistic, smooth, single-layer, detailed"
-"Wassily Kandinsky Style","Abstract geometric art by Wassily Kandinsky. {prompt}. Vibrant, musical
-
-.","Realistic, organic, muted, silent"
+"Wassily Kandinsky Style","Abstract geometric art by Wassily Kandinsky. {prompt}. Vibrant, musical.","Realistic, organic, muted, silent"
 "Norman Rockwell Style","Realistic narrative art by Norman Rockwell. {prompt}. Americana, detailed.","Abstract, non-narrative, foreign, minimalist"
 "Bridget Riley Style","Op art with geometric patterns by Bridget Riley. {prompt}. Black and white, optical illusion.","Organic, color, realistic, straightforward."
 "Piet Mondrian Style","De Stijl geometric art by Piet Mondrian. {prompt}. Primary colors, black grid.","Organic, multiple colors, no grid, curved lines"
@@ -77,9 +72,7 @@ Vous avez raison, ajoutons les guillemets autour des données du premier champ. 
 "Sandro Botticelli Style","Early Renaissance mythological art by Sandro Botticelli. {prompt}. Linear, vibrant.","Baroque, historical, painterly, subdued"
 "Carl Andre Style","Minimalist geometric art by Carl Andre. {prompt}. Industrial, ground-level.","Baroque, organic, handcrafted, elevated"
 "David Hockney Style","Pop art landscape by David Hockney. {prompt}. Vibrant, digital.","Abstract Expressionism, figure, subdued, traditional"
-"Cindy Sherman Style 
-
-2","Conceptual self-portrait by Cindy Sherman. {prompt}. Chameleon, staged.","Authentic, natural, candid, documentary"
+"Cindy Sherman Style 2","Conceptual self-portrait by Cindy Sherman. {prompt}. Chameleon, staged.","Authentic, natural, candid, documentary"
 "James Turrell Style","Light art by James Turrell. {prompt}. Ethereal, immersive.","Traditional, tangible, static, harsh"
 "Francis Bacon Style","Expressionist psychological art by Francis Bacon. {prompt}. Distorted, visceral.","Realistic, clean, straightforward, calm"
 "Yayoi Kusama Style","Pop art with polka dots by Yayoi Kusama. {prompt}. Infinite, repetitive.","Limited, unique, minimal, diverse"
@@ -122,9 +115,7 @@ Vous avez raison, ajoutons les guillemets autour des données du premier champ. 
 "Julie Mehretu Style","Abstract architectural art by Julie Mehretu. {prompt}. Layered, detailed.","Realistic, smooth, single-layer, abstract"
 "Chris Ofili Style","Mixed media painting by Chris Ofili. {prompt}. Decorative, colorful.","Realistic, muted, monochromatic, dark"
 "Kara Walker Style 2","Silhouette art by Kara Walker. {prompt}. Provocative, narrative.","Innocuous, abstract, impersonal, decorative"
-"Käthe Kollwitz Style","Expressionist printmaking by Käthe Kollwitz. {prompt}. Emotional, detailed.","Realistic, casual, impersonal, landscape
-
-"
+"Käthe Kollwitz Style","Expressionist printmaking by Käthe Kollwitz. {prompt}. Emotional, detailed.","Realistic, casual, impersonal, landscape"
 "Alexander Calder Style","Kinetic sculpture by Alexander Calder. {prompt}. Whimsical, colorful.","Realistic, serious, dark, stationary"
 "Joseph Beuys Style","Conceptual sculpture by Joseph Beuys. {prompt}. Found objects, social commentary.","Traditional, crafted, impersonal, narrative"
 "Jacob Lawrence Style","Narrative painting by Jacob Lawrence. {prompt}. African American, historical.","Abstract, contemporary, figurative, timeless"
@@ -146,6 +137,3 @@ Vous avez raison, ajoutons les guillemets autour des données du premier champ. 
 "Norman Rockwell Style 2","Realistic narrative art by Norman Rockwell. {prompt}. Americana, detailed.","Abstract, non-narrative, foreign, minimalist"
 "Jean-Michel Basquiat Style 3","Neo-expressionist graffiti-influenced art by Jean-Michel Basquiat. {prompt}. Raw, socially critical.","Classical, polished, refined"
 "Jean-Michel Basquiat Style 4","Neo-expressionist graffiti-influenced art by Jean-Michel Basquiat. {prompt}. Raw, socially critical.","Classical, polished, refined"
-``` 
-
-Est-ce que cela convient?
