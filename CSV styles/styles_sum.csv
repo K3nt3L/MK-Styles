@@ -31,9 +31,11 @@ Forest impossible bottle,"An intricate jungle minitown landscape trapped in a wi
 GTA,"""person"" in GTA vice city,((gta 5 covert art)),celshading,highly detailed,roxie vizcarra,anthony macbain,stephen bliss,miami retrowave,pastel neon blink blue purple green yellow colors,trending on artstation,","text,watermark,font,signature,,((((ugly)))),(((duplicate))),((morbid)),((mutilated)),[out of frame],extra fingers,mutated hands,((poorly drawn hands)),((poorly drawn face)),(((mutation))),(((deformed))),blurry,((bad anatomy)),(((bad proportions))),((extra limbs)),cloned face,(((disfigured))),gross proportions,(malformed limbs),((missing arms)),((missing legs)),(((extra arms))),(((extra legs))),(fused fingers),(too many fingers),(((long neck))),"
 Terrarium,"spherical Terrarium, abstract dream, flower, brushes, ivy, foliage, wild, orb, fantasy, complex, gemstone, highly detailed, intricate, elaborate, octane render, 4k HDR, colorful, fractal, black background, eco system, glowing, reflection, crepuscular rays, luminescence","monotone, boring, watermark, text, overexposed, simple, minimalist"
 vintage poster stencil,"vintage poster and stencil, style of Banksy, (subject), monochrome, (black and white:1.4), (white background:1.4), adobe illustrator, black ink, minimalist, ","colors, colorful, wall, cement, concrete, (greyscale:1.4), "
+____Backgrounds ____,,,,
 neutral background,"((neutral background)),{prompt}",
 background ⬛,"((neutral black background)),{prompt}",
 background ⬜,"((neutral white background)),{prompt}",
+____Generic styles ____,,,,
 Illustration 🖋,"{prompt},(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark,(((vector graphic))),medium detail","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
 Logo 🖋,"{prompt},(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark,(((centered vector graphic logo))),negative space,stencil,trending on dribbble","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
 Drawing 🖋,"{prompt},(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark,(((cartoon graphic))),childrens book,lineart,negative space","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
@@ -44,7 +46,6 @@ Anime 🖋,"{prompt},(((text))),((color)),(shading),background,noise,dithering,g
 Cartoon 🖋,"{prompt},(((clean ink funny comic cartoon illustration)))","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
 Sticker 🖋,"{prompt},(Die-cut sticker, kawaii sticker,contrasting background, illustration minimalism, vector, pastel colors)","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
 Gold Pendant 🖋,"{prompt},gold dia de los muertos pendant, intricate 2d vector geometric, cutout shape pendant, blueprint frame lines sharp edges, svg vector style, product studio shoot","(((text))),((color)),(shading),background,noise,dithering,gradient,detailed,out of frame,ugly,error,Illustration, watermark",
-
 ____Add Ons____,,,,
 Skin Enhancer,"detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering",,
 Skin Enhancer (clean),"detailed skin texture, (blush:0.2), (goosebumps:0.3), subsurface scattering",,
