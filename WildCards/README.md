@@ -11,4 +11,4 @@ These files are compatible with the main Stable Diffusion software: Fooocus, Com
 You just need to surround the file name with two underscores (before and after) in your prompt to randomly insert one of the corresponding lines from the file.
 In most cases, there is a wildcard directory in your preferred software.
 
-Regarding ComfyUI, the location depends on the installed extensions.
+Regarding ComfyUI, the location depends on the installed extensions. There are various custom nodes that allow you to manage wildcards. Some have their specific directory.
