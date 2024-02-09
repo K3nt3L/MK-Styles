@@ -12,5 +12,3 @@ You just need to surround the file name with two underscores (before and after) 
 In most cases, there is a wildcard directory in your preferred software.
 
 Regarding ComfyUI, the location depends on the installed extensions.
-
-artist.txt ---->   "__artists__"
