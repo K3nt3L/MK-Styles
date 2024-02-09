@@ -1,0 +1,6 @@
+Architectural plan
+City plan
+Geological cross-section
+Treemap
+Topology map
+Weather map
