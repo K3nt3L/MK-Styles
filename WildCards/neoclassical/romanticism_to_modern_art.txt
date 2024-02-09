@@ -1,0 +1,9 @@
+__artists/European Art/neoclassical/norwich_school__
+__artists/European Art/neoclassical/biedermeier__
+__artists/European Art/neoclassical/realism__
+__artists/European Art/neoclassical/realism__
+__artists/European Art/neoclassical/hague_school__
+__artists/European Art/neoclassical/american_barbizon_school__
+__artists/European Art/neoclassical/spanish_electicism__
+__artists/European Art/neoclassical/macchiaioli__
+__artists/European Art/neoclassical/pre_raphaelite_brotherhood__
