@@ -13,4 +13,4 @@ In most cases, there is a wildcard directory in your preferred software.
 
 Regarding ComfyUI, the location depends on the installed extensions.
 
-artist.txt ---->   __artists__
+artist.txt ---->   "__artists__"
