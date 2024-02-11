@@ -1,0 +1,11 @@
+oversaturated, grain, low-res, blurry, blurry, blur, out of focus, overexposed, high-contrast, bad-contrast
+low quality, worst quality, bad art, beginner, 
+ugly, disgusting, kitsch, poorly drawn, childish, mangled, old, surreal
+deformed, bad anatomy, floating limbs, disconnected limbs, malformed hands, long neck, long body, mutilated, disfigured,poorly drawn face, mutation, mutated, extra limb, poorly drawn hands, missing limb, weird eyes, mutated hands, ugly,  tiling, mutation, poorly drawn hands, poorly drawn face, missing fingers, crooked teeth, extra fingers, disfigured, error, abstract,  fused fingers, distorted, distortion, twisted, excessive, exaggerated pose, exaggerated limbs,
+watermark, signature, text, font, letter, trademark
+drawing, illustration, 3d render, cgi
+symmetrical,duplicate, pixelated, fake, hyper
+body out of frame, cropped, out of frame
+frame, canvas
+blur, ugly, tiling, bad art, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, body out of frame, bad anatomy, watermark, signature, cut off, low contrast, underexposed, overexposed, beginner, amateur, distorted face
+
